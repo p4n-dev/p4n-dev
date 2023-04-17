@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm Pandora</h2>
-<p>I'm currently working at <strong><a href="https://github.com/pacman-softworks">Pacman Softworks</a></strong>
+<p>I'm currently working on <strong><a href="https://github.com/Hell-Of-DDLC-Mods">DDLC Mods</a></strong>
 <p><a href="https://p4n.dev"><img src="https://img.shields.io/badge/-p4n.dev-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://p4n.dev" alt="Website Badge"> <a href="https://open.spotify.com/user/vmsc8ydc9lv1zid5hmi0eutay"><img src="https://img.shields.io/badge/-@Pandora-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/vmsc8ydc9lv1zid5hmi0eutay" alt="Spotify Badge"></a></p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
