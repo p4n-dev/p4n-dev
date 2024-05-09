@@ -16,7 +16,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="vue" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" alt="gulp" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="redis" width="25" height="25" />
@@ -28,4 +27,3 @@
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=1Pandora1&show_icons=true&count_private=true" alt="Pandora" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=1Pandora1.1Pandora1" alt="visitors"></p>
