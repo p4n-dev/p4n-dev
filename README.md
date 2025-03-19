@@ -1,14 +1,13 @@
 <h2>Hey 👋, I'm Pandora</h2>
-<p>I'm currently working on <strong><a href="">Private projects.</a></strong>
+<p>I'm currently working on <strong><a href="https://zeustanks.online">Zeus Tanks.</a></strong>
 <p><a href="https://p4n.dev"><img src="https://img.shields.io/badge/-p4n.dev-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://p4n.dev" alt="Website Badge"> <a href="https://open.spotify.com/user/vmsc8ydc9lv1zid5hmi0eutay"><img src="https://img.shields.io/badge/-@Pandora-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/vmsc8ydc9lv1zid5hmi0eutay" alt="Spotify Badge"></a></p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on Doki Doki Mod Loader and P4nFiles, a anonymous and simple file sharing system.</li>
+<li>🔭 I’m currently working on ZeusTanks.</li>
 <li>🧐 Learning <strong>Programming languages</strong> <strong>and Reverse Engineering</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/pacman-softworks">Github</a>.</li>
-<li>💬 Ping me about <strong>Python,JS,LUA</strong>.</li>
+<li>💬 Ping me about <strong>JS-PY-LUA</strong>.</li>
 <li>🎉 Fun Fact: 我也会讲中文。</li>
 </ul>
 <h2>🚀 Some Tools I Use</h2>
